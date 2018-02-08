@@ -1,0 +1,2 @@
+# TypeScriptSample
+TypeScriptテスト用
